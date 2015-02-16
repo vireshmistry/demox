@@ -14,7 +14,7 @@ $client = new SoapClient("http://lcom44.lanet.com/sm_papa/index.php/api/soap/?ws
 $apiuser = 'sm_papa'; 
 $apikey = 'pG53Awbm46NJYEpAxzsKrBRngkJPCKNm7WbqSY78'; 
 
-}
+}sd fdsf dsf dsf sdfsd sdf sdfsd fsd
  catch (Exception $e)
 { //while an error has occured
 			
